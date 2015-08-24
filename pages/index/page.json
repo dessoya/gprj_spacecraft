@@ -1,0 +1,22 @@
+{
+    "title": "spacecraft",
+
+	"resultPath": "/home/github_node_modules/gmr/result",
+
+	"jsPackage": "all.js",
+	"cssPackage": "all.css",
+
+	"htmlPackage": "index.html",
+
+	"use": [
+		"threejs|1.*",
+		"qparams|1.*",
+		"commonStyles|1.*", "class|1.*", "net/ws|1.*", "cookie|1.*", "hashSections|1.*",
+		"menu/top/auth|1.*", "menu/side/navigate|1.*",
+		"sections/about|1.*", "sections/start|1.*", "sections/profile|1.*", "sections/metropolis|1.*"
+	],
+
+	"debug": {
+		"css": [ "layout.css" ]
+	}
+}

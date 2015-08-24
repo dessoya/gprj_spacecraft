@@ -1,0 +1,16 @@
+{
+	"config": {
+		"auth": {
+			"cookie": "auth_session",
+			"service_path": "http://auth.spacecraft-online.org"
+		}
+	},
+
+	"debug": {
+	    "repositories": [ "/home/github_node_modules/gmr/modules", "/home/sc/gprj/modules" ],
+
+		"http": {
+			"path": "/var/lib/gravity/spacecraft"
+		}
+	}
+}

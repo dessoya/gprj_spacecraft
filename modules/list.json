@@ -1,0 +1,8 @@
+{
+	"menu/top/auth": [ "1.0" ],
+	"menu/side/navigate": [ "1.0" ],
+	"sections/about": [ "1.0" ],
+	"sections/start": [ "1.0" ],
+	"sections/profile": [ "1.0" ],
+	"sections/metropolis": [ "1.0" ]
+}
