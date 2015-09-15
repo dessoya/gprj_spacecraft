@@ -1,0 +1,31 @@
+.ctrl-resource-info {
+	font-size: 13px;
+}
+
+.ctrl-resource-info .info {
+    margin-left: 5px;
+	float: left;
+	width: 60px;
+	font-weight: bold;
+}
+
+.ctrl-resource-info .info_pop {
+    margin-left: 5px;
+	float: left;
+	width: 90px;
+	font-weight: bold;
+}
+
+
+.ctrl-resource-info .div {
+    margin-left: 5px;
+	float: left;
+	width: 15px;
+}
+
+.ctrl-resource-info .population_avail {
+    margin-left: 5px;
+	float: left;
+	width: 60px;
+	font-weight: bold;
+}
