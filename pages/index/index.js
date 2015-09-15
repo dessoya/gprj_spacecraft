@@ -19,7 +19,7 @@ module.exports = function() {
 	var c = WS.create("ws://192.168.88.101:" + port + "/ws")
 
 	var nm = NavigateMenu.create();
-	nm.place('#menu_cont')
+	nm.place('#section_menu')
 
 	var sections = hashSections.create();
 

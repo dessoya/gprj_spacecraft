@@ -1,3 +1,8 @@
 {
-	"use": "class|1.*"
+	"use": "threejs|1.*,class|1.*,ui/control|1.*",
+
+	"debug": {
+		"css": [ "style.css", "ResourceInfo.css", "BuildingContorlMenu_Buildings.css", "Caption.css" ]
+	}
+
 }
