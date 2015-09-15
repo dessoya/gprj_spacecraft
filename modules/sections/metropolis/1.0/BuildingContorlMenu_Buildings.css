@@ -1,0 +1,10 @@
+.ctrl-menu-building-control a {
+	padding: 3px 5px;
+	display: block;
+	text-decoration: none;
+}
+
+.ctrl-menu-building-control a:hover {
+	background: #444;
+	color: #000;
+}
